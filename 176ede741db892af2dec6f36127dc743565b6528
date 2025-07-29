@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f0db05b9_6ef477d7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-07-29T10:04:42Z",
+      "side": 1,
+      "message": "40486: common: telephony: Create symlink target for CneApp | https://gerrit.aospa.co/c/AOSPA/android_device_qcom_common/+/40486 but it already exists",
+      "revId": "176ede741db892af2dec6f36127dc743565b6528",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
