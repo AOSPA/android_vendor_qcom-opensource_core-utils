@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8e6ce2b0_26f11b3c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2025-07-29T10:04:09Z",
+      "side": 1,
+      "message": "Comment removed by: Omkar Chandorkar; Reason: gerrit moment after sign in",
+      "revId": "d74d8c72780aa89fcd8bfc386254945e49c98dd9",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
